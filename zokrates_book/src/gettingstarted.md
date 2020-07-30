@@ -16,7 +16,7 @@ curl -LSfs get.zokrat.es | sh
 
 ### Docker
 
-ZoKrates is available on Dockerhub.
+ZoKrates is available on Docker Hub.
 
 ```bash
 docker run -ti zokrates/zokrates /bin/bash
